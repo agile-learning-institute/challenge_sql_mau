@@ -3,8 +3,8 @@
 SQL Challenge for Monthly/Daily Active User Analysis and Visualization
 
 ## Prerequisites
-- Python 3.12 or higher
-- pipenv (Python package manager)
+- [Python 3.12 or higher](https://www.python.org/downloads/)
+- [pipenv](https://pipenv.pypa.io/en/latest/installation/) (Python package manager)
 
 ## Setup
 1. Install dependencies:
