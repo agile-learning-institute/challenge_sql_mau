@@ -86,7 +86,7 @@ def main():
                     })
 
         # Generate hack attempts for this day
-        hack_attempts = generate_hack_attempts(current_date)
+        hack_attempts = generate_hack_attempts(current_date, num_attempts=random.randint(10, 100))
         for attempt_time in hack_attempts:
             # Generate random user ID that doesn't exist
             fake_user_id = faker.uuid4()
