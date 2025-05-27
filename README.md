@@ -82,7 +82,7 @@ plt.show()
 ```
 
 ### Example 3: Grafana Dashboard
-If you want to take your skills to the next level, Let's create a live interactive dashboard using open source observability tools That are commonly used in IT operations. You want to run grafana and your database in containers, Your doctor compose file might look something like this:
+If you want to take your skills to the next level, create a live interactive dashboard using open source observability tools that are commonly used in IT operations. You might want to run [grafana](https://grafana.com) and your database in containers, the doctor compose file might look something like this:
 ```yaml
 version: '3.8'
 
