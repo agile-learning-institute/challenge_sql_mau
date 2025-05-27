@@ -1,4 +1,4 @@
- # SQL MAU/DAU Challenge
+# SQL MAU/DAU Challenge
 
 SQL Challenge for Monthly/Daily Active User Analysis and Visualization
 
@@ -21,7 +21,7 @@ pipenv run generate-logins <output_file> <start_date> <end_date>
 
 Example:
 ```bash
-pipenv run generate-logins test_logins.csv 2025-01-01 2025-04-15
+pipenv run generate-logins new_logins.csv 2025-01-01 2025-04-15
 ```
 
 This will generate a CSV file containing login records with:
@@ -47,6 +47,9 @@ The project includes two main data files:
   - city: User's city
   - state: User's state
   - zip: User's zip code
+  - login_propensity: Probability (0-1) of user logging in on any given day
+  - ip_address: Default IP address for the user
+  - user_agent: Default user agent string for the user
 
 ### logins.csv
 You can generate logins using the ``pipenv run generate-logins`` command 
@@ -114,7 +117,7 @@ plt.show()
 ```
 
 ### Example 3: Grafana Dashboard
-If you want to take your skills to the next level, create a live interactive dashboard using open source observability tools that are commonly used in IT operations. You might want to run [grafana](https://grafana.com) and your database in containers, the doctor compose file might look something like this:
+If you want to take your skills to the next level, create a live interactive dashboard using open source observability tools that are commonly used in IT operations. You might want to run [grafana](https://grafana.com) and your database in containers, the Docker compose file might look something like this:
 ```yaml
 version: '3.8'
 
