@@ -1,191 +1,191 @@
-user_id,user_name,street,city,state,zip
-507f1f77bcf86cd799439011,john_doe,123 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439012,jane_smith,456 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439013,bob_wilson,789 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439014,alice_jones,321 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439015,charlie_brown,654 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439016,eve_davis,987 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439017,frank_miller,135 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439018,grace_lee,246 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439019,henry_wilson,357 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439020,irene_black,468 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439021,jack_white,579 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439022,karen_green,680 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439023,larry_brown,791 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439024,mary_jones,802 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439025,nancy_smith,913 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439026,oscar_wilson,124 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439027,patricia_lee,235 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439028,quinn_black,346 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439029,robert_white,457 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439030,sarah_green,568 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439031,tom_brown,679 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439032,una_jones,780 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439033,victor_smith,891 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439034,wendy_wilson,902 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439035,xavier_lee,103 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439036,yvonne_black,214 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439037,zack_white,325 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439038,amy_green,436 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439039,bill_brown,547 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439040,cathy_jones,658 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439041,dave_smith,769 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439042,ellen_wilson,870 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439043,fred_lee,981 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439044,gina_black,192 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439045,harry_white,283 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439046,ivy_green,374 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439047,jim_brown,465 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439048,kelly_jones,556 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439049,leo_smith,647 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439050,mona_wilson,738 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439051,nick_lee,829 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439052,olivia_black,920 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439053,peter_white,101 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439054,quinn_green,212 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439055,rachel_brown,323 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439056,sam_jones,434 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439057,tina_smith,545 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439058,ulysses_wilson,656 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439059,victoria_lee,767 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439060,walter_black,878 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439061,alex_turner,989 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439062,bella_swan,123 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439063,chris_evans,234 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439064,diana_prince,345 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439065,edward_hands,456 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439066,fiona_gallagher,567 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439067,george_harrison,678 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439068,helen_keller,789 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439069,ian_mckellen,890 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439070,julia_roberts,901 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439071,kevin_bacon,102 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439072,lisa_simpson,213 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439073,mike_tyson,324 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439074,nina_simone,435 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439075,oliver_twist,546 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439076,penny_lane,657 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439077,quentin_tarantino,768 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439078,rachel_green,879 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439079,steve_jobs,980 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439080,tina_fey,123 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439081,ursula_k_le_guin,234 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439082,vince_vaughn,345 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439083,will_smith,456 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439084,xena_warrior,567 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439085,yoda_master,678 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439086,zoe_saldana,789 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439087,adam_sandler,890 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439088,betty_white,901 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439089,charlie_chaplin,102 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439090,dorothy_gale,213 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439091,ernest_hemingway,324 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439092,frida_kahlo,435 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439093,gandhi_mahatma,546 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439094,harry_potter,657 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439095,indiana_jones,768 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439096,james_bond,879 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439097,kate_winslet,980 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439098,leonardo_dicaprio,123 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439099,meryl_streep,234 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439100,napoleon_bonaparte,345 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439101,oprah_winfrey,456 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439102,pablo_picasso,567 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439103,queen_elizabeth,678 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439104,robin_hood,789 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439105,sherlock_holmes,890 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439106,tarzan_jungle,901 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439107,ursula_andress,102 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439108,victor_frankenstein,213 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439109,william_shakespeare,324 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439110,xavier_school,435 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439111,yellow_submarine,546 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439112,zorro_mask,657 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439113,alice_cooper,768 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439114,bruce_lee,879 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439115,clint_eastwood,980 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439116,david_bowie,123 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439117,elvis_presley,234 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439118,freddie_mercury,345 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439119,greta_garbo,456 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439120,humphrey_bogart,567 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439121,ingrid_bergman,678 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439122,john_lennon,789 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439123,kurt_cobain,890 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439124,louis_armstrong,901 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439125,madonna_ciccone,102 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439126,nina_hagen,213 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439127,ozzy_osbourne,324 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439128,prince_rogers,435 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439129,queen_latifah,546 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439130,ray_charles,657 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439131,stevie_wonder,768 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439132,tina_turner,879 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439133,ursula_buress,980 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439134,van_morrison,123 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439135,wayne_newton,234 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439136,xzibit_rapper,345 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439137,yoko_ono,456 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439138,zappa_frank,567 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439139,amy_winehouse,678 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439140,bob_marley,789 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439141,chuck_berry,890 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439142,diana_ross,901 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439143,elton_john,102 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439144,frank_sinatra,213 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439145,gloria_gaynor,324 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439146,harry_connick,435 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439147,irene_cara,546 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439148,janet_jackson,657 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439149,karen_carpenter,768 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439150,lionel_richie,879 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439151,marvin_gaye,980 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439152,nat_king_cole,123 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439153,otto_preminger,234 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439154,paul_mccartney,345 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439155,quincy_jones,456 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439156,ray_davies,567 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439157,stevie_nicks,678 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439158,tom_jones,789 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439159,ursula_herrmann,890 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439160,van_halen,901 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439161,waylon_jennings,102 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439162,xavier_cugat,213 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439163,yanni_chryssomallis,324 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439164,zubin_mehta,435 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439165,adele_adkins,546 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439166,billy_joel,657 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439167,chris_cornell,768 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439168,david_gilmour,879 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439169,eddie_vedder,980 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439170,fleetwood_mac,123 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439171,george_michael,234 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439172,heart_ann_wilson,345 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439173,ian_anderson,456 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439174,james_taylor,567 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439175,keith_richards,678 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439176,leonard_cohen,789 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439177,mick_jagger,890 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439178,neil_young,901 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439179,ozzy_osbourne,102 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439180,peter_gabriel,213 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439181,queen_freddie,324 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439182,roger_waters,435 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439183,steve_winwood,546 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439184,tom_petty,657 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439185,ursula_herrmann,768 Poplar Ave,Orlando,FL,32801
-507f1f77bcf86cd799439186,van_morrison,879 Chestnut Blvd,Columbus,OH,43215
-507f1f77bcf86cd799439187,warren_zevon,980 Magnolia Way,Charlotte,NC,28202
-507f1f77bcf86cd799439188,xavier_rudd,123 Sycamore Rd,Denver,CO,80203
-507f1f77bcf86cd799439189,yellowman,234 Hickory St,Portland,OR,97205
-507f1f77bcf86cd799439190,zappa_frank,345 Redwood Dr,San Diego,CA,92101
-507f1f77bcf86cd799439191,amy_lee,456 Maple St,Springfield,IL,62704
-507f1f77bcf86cd799439192,bon_jovi,567 Oak Ave,Centerville,OH,45459
-507f1f77bcf86cd799439193,chris_martin,678 Pine Rd,Lakeland,FL,33801
-507f1f77bcf86cd799439194,dave_grohl,789 Cedar Dr,Franklin,TN,37064
-507f1f77bcf86cd799439195,ed_sheeran,890 Elm St,Greenville,SC,29601
-507f1f77bcf86cd799439196,florence_welch,901 Birch Ln,Redmond,WA,98052
-507f1f77bcf86cd799439197,gary_lightbody,102 Willow Ct,Plano,TX,75023
-507f1f77bcf86cd799439198,hayley_williams,213 Aspen Pl,Albany,NY,12207
-507f1f77bcf86cd799439199,imogen_heap,324 Spruce St,Tempe,AZ,85281
-507f1f77bcf86cd799439200,jack_white ,435 Poplar Ave,Orlando,FL,32801 
+user_id,user_name,street,city,state,zip,login_propensity,ip_address,user_agent
+507f1f77bcf86cd799439011,john_doe,123 Maple St,Springfield,IL,62704,0.6153,167.220.85.51,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/60.0.859.0 Safari/535.2"
+507f1f77bcf86cd799439012,jane_smith,456 Oak Ave,Centerville,OH,45459,0.6917,90.23.168.59,Opera/8.85.(X11; Linux x86_64; lo-LA) Presto/2.9.187 Version/12.00
+507f1f77bcf86cd799439013,bob_wilson,789 Pine Rd,Lakeland,FL,33801,0.376,7.25.251.133,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/4.0)
+507f1f77bcf86cd799439014,alice_jones,321 Cedar Dr,Franklin,TN,37064,0.4539,164.187.142.93,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.2; Trident/4.0)
+507f1f77bcf86cd799439015,charlie_brown,654 Elm St,Greenville,SC,29601,0.5302,8.197.23.85,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_8 rv:4.0; nb-NO) AppleWebKit/531.19.5 (KHTML, like Gecko) Version/5.0.3 Safari/531.19.5"
+507f1f77bcf86cd799439016,eve_davis,987 Birch Ln,Redmond,WA,98052,0.6729,151.71.69.247,"Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/531.2.2 (KHTML, like Gecko) Version/5.1 Safari/531.2.2"
+507f1f77bcf86cd799439017,frank_miller,135 Willow Ct,Plano,TX,75023,0.2703,140.83.196.155,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/5.0)
+507f1f77bcf86cd799439018,grace_lee,246 Aspen Pl,Albany,NY,12207,0.5484,194.16.93.0,Opera/9.95.(Windows NT 4.0; an-ES) Presto/2.9.168 Version/10.00
+507f1f77bcf86cd799439019,henry_wilson,357 Spruce St,Tempe,AZ,85281,0.4337,172.18.127.20,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_2 like Mac OS X; cmn-TW) AppleWebKit/532.25.4 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6532.25.4"
+507f1f77bcf86cd799439020,irene_black,468 Poplar Ave,Orlando,FL,32801,0.4183,55.173.57.206,Mozilla/5.0 (Android 8.0.0; Mobile; rv:17.0) Gecko/17.0 Firefox/17.0
+507f1f77bcf86cd799439021,jack_white,579 Chestnut Blvd,Columbus,OH,43215,0.3805,102.18.125.240,"Mozilla/5.0 (iPad; CPU iPad OS 4_2_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/9.5x3313.0 Mobile/17T843 Safari/535.1"
+507f1f77bcf86cd799439022,karen_green,680 Magnolia Way,Charlotte,NC,28202,0.5816,116.75.83.121,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/532.37.2 (KHTML, like Gecko) Version/4.0.2 Safari/532.37.2"
+507f1f77bcf86cd799439023,larry_brown,791 Sycamore Rd,Denver,CO,80203,0.3685,60.182.33.122,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/17.0.843.0 Safari/533.0"
+507f1f77bcf86cd799439024,mary_jones,802 Hickory St,Portland,OR,97205,0.5477,59.204.90.209,"Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/536.2 (KHTML, like Gecko) CriOS/25.0.882.0 Mobile/17Y466 Safari/536.2"
+507f1f77bcf86cd799439025,nancy_smith,913 Redwood Dr,San Diego,CA,92101,0.2874,146.6.42.118,Opera/9.47.(Windows NT 11.0; lzh-TW) Presto/2.9.187 Version/11.00
+507f1f77bcf86cd799439026,oscar_wilson,124 Maple St,Springfield,IL,62704,0.4414,99.59.103.185,"Mozilla/5.0 (Windows NT 5.01) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/42.0.843.0 Safari/533.2"
+507f1f77bcf86cd799439027,patricia_lee,235 Oak Ave,Centerville,OH,45459,0.6419,183.203.231.196,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/4.0)
+507f1f77bcf86cd799439028,quinn_black,346 Pine Rd,Lakeland,FL,33801,0.4466,25.231.189.97,Opera/9.49.(Windows NT 5.01; te-IN) Presto/2.9.162 Version/10.00
+507f1f77bcf86cd799439029,robert_white,457 Cedar Dr,Franklin,TN,37064,0.4937,170.228.72.84,Opera/9.60.(Windows NT 5.0; mag-IN) Presto/2.9.171 Version/11.00
+507f1f77bcf86cd799439030,sarah_green,568 Elm St,Greenville,SC,29601,0.5374,181.53.7.124,Mozilla/5.0 (Windows 98; Win 9x 4.90; unm-US; rv:1.9.1.20) Gecko/5420-06-23 05:55:22.267426 Firefox/3.8
+507f1f77bcf86cd799439031,tom_brown,679 Birch Ln,Redmond,WA,98052,0.3627,9.60.83.138,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; fr-CH) AppleWebKit/534.19.3 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6534.19.3"
+507f1f77bcf86cd799439032,una_jones,780 Willow Ct,Plano,TX,75023,0.7112,3.68.3.222,Opera/8.14.(Windows NT 5.2; tcy-IN) Presto/2.9.189 Version/10.00
+507f1f77bcf86cd799439033,victor_smith,891 Aspen Pl,Albany,NY,12207,0.526,37.1.249.31,Mozilla/5.0 (compatible; MSIE 5.0; Windows 95; Trident/4.1)
+507f1f77bcf86cd799439034,wendy_wilson,902 Spruce St,Tempe,AZ,85281,0.3549,56.102.16.94,"Mozilla/5.0 (iPad; CPU iPad OS 14_2_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/11.1z3719.0 Mobile/17R562 Safari/532.0"
+507f1f77bcf86cd799439035,xavier_lee,103 Poplar Ave,Orlando,FL,32801,0.5907,74.197.22.73,Mozilla/5.0 (compatible; MSIE 5.0; Windows CE; Trident/5.1)
+507f1f77bcf86cd799439036,yvonne_black,214 Chestnut Blvd,Columbus,OH,43215,0.3844,73.202.198.228,Mozilla/5.0 (compatible; MSIE 7.0; Windows 95; Trident/3.1)
+507f1f77bcf86cd799439037,zack_white,325 Magnolia Way,Charlotte,NC,28202,0.59,205.243.214.116,"Mozilla/5.0 (Windows 95) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/33.0.828.0 Safari/532.0"
+507f1f77bcf86cd799439038,amy_green,436 Sycamore Rd,Denver,CO,80203,0.548,95.69.251.93,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/7454-12-07 00:46:27.342468 Firefox/3.6.3
+507f1f77bcf86cd799439039,bill_brown,547 Hickory St,Portland,OR,97205,0.574,151.197.42.59,Opera/9.37.(Windows NT 6.1; lt-LT) Presto/2.9.169 Version/11.00
+507f1f77bcf86cd799439040,cathy_jones,658 Redwood Dr,San Diego,CA,92101,0.4875,105.77.221.167,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_0) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/41.0.868.0 Safari/536.2"
+507f1f77bcf86cd799439041,dave_smith,769 Maple St,Springfield,IL,62704,0.2503,173.160.215.86,"Mozilla/5.0 (Linux; Android 14) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/31.0.872.0 Safari/533.0"
+507f1f77bcf86cd799439042,ellen_wilson,870 Oak Ave,Centerville,OH,45459,0.4408,197.13.248.184,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/533.0 (KHTML, like Gecko) FxiOS/14.8a9785.0 Mobile/19D873 Safari/533.0"
+507f1f77bcf86cd799439043,fred_lee,981 Pine Rd,Lakeland,FL,33801,0.5752,78.151.140.82,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.01; Trident/3.1)
+507f1f77bcf86cd799439044,gina_black,192 Cedar Dr,Franklin,TN,37064,0.4403,9.76.79.174,Mozilla/5.0 (Windows NT 6.0; mg-MG; rv:1.9.2.20) Gecko/6036-03-27 08:14:09.483994 Firefox/3.6.3
+507f1f77bcf86cd799439045,harry_white,283 Elm St,Greenville,SC,29601,0.5214,47.110.221.138,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_8) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/22.0.876.0 Safari/534.1"
+507f1f77bcf86cd799439046,ivy_green,374 Birch Ln,Redmond,WA,98052,0.2961,15.9.105.253,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_0 rv:5.0; li-NL) AppleWebKit/534.9.6 (KHTML, like Gecko) Version/5.0.1 Safari/534.9.6"
+507f1f77bcf86cd799439047,jim_brown,465 Willow Ct,Plano,TX,75023,0.5286,100.176.232.254,Mozilla/5.0 (Windows NT 5.01; wae-CH; rv:1.9.2.20) Gecko/2457-11-11 21:17:27.834204 Firefox/3.8
+507f1f77bcf86cd799439048,kelly_jones,556 Aspen Pl,Albany,NY,12207,0.6239,168.196.139.151,"Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/36.0.854.0 Safari/535.2"
+507f1f77bcf86cd799439049,leo_smith,647 Spruce St,Tempe,AZ,85281,0.4001,191.227.228.118,Opera/8.70.(Windows 95; pap-CW) Presto/2.9.188 Version/12.00
+507f1f77bcf86cd799439050,mona_wilson,738 Poplar Ave,Orlando,FL,32801,0.4251,59.18.10.195,Opera/8.42.(Windows NT 6.2; ku-TR) Presto/2.9.185 Version/11.00
+507f1f77bcf86cd799439051,nick_lee,829 Chestnut Blvd,Columbus,OH,43215,0.5753,71.107.5.144,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_6 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/16.8l1382.0 Mobile/17U578 Safari/531.1"
+507f1f77bcf86cd799439052,olivia_black,920 Magnolia Way,Charlotte,NC,28202,0.4356,134.145.223.179,Mozilla/5.0 (Windows NT 6.2; tg-TJ; rv:1.9.2.20) Gecko/9153-08-07 04:19:35.343262 Firefox/4.0
+507f1f77bcf86cd799439053,peter_white,101 Sycamore Rd,Denver,CO,80203,0.5181,197.239.223.197,Mozilla/5.0 (Android 1.1; Mobile; rv:32.0) Gecko/32.0 Firefox/32.0
+507f1f77bcf86cd799439054,quinn_green,212 Hickory St,Portland,OR,97205,0.722,81.36.25.183,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_8_4) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/49.0.882.0 Safari/531.0"
+507f1f77bcf86cd799439055,rachel_brown,323 Redwood Dr,San Diego,CA,92101,0.6265,83.210.23.170,Opera/8.53.(X11; Linux i686; ia-FR) Presto/2.9.167 Version/10.00
+507f1f77bcf86cd799439056,sam_jones,434 Maple St,Springfield,IL,62704,0.3404,97.240.16.201,Opera/8.67.(Windows NT 5.1; km-KH) Presto/2.9.172 Version/11.00
+507f1f77bcf86cd799439057,tina_smith,545 Oak Ave,Centerville,OH,45459,0.6892,12.132.234.201,"Mozilla/5.0 (Windows; U; Windows NT 5.1) AppleWebKit/531.8.3 (KHTML, like Gecko) Version/5.0.4 Safari/531.8.3"
+507f1f77bcf86cd799439058,ulysses_wilson,656 Pine Rd,Lakeland,FL,33801,0.7367,209.75.25.205,"Mozilla/5.0 (Windows CE) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/45.0.813.0 Safari/534.2"
+507f1f77bcf86cd799439059,victoria_lee,767 Cedar Dr,Franklin,TN,37064,0.4124,68.40.53.192,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_3; rv:1.9.6.20) Gecko/5304-09-26 15:03:16.740768 Firefox/3.6.5
+507f1f77bcf86cd799439060,walter_black,878 Elm St,Greenville,SC,29601,0.5652,159.59.78.8,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_9_2 rv:6.0; pap-AN) AppleWebKit/534.49.3 (KHTML, like Gecko) Version/4.0.1 Safari/534.49.3"
+507f1f77bcf86cd799439061,alex_turner,989 Birch Ln,Redmond,WA,98052,0.4836,143.27.98.145,Mozilla/5.0 (Android 7.1; Mobile; rv:29.0) Gecko/29.0 Firefox/29.0
+507f1f77bcf86cd799439062,bella_swan,123 Willow Ct,Plano,TX,75023,0.61,36.122.186.193,Opera/8.84.(X11; Linux i686; vi-VN) Presto/2.9.180 Version/12.00
+507f1f77bcf86cd799439063,chris_evans,234 Aspen Pl,Albany,NY,12207,0.3364,16.42.99.120,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_3 like Mac OS X; sv-SE) AppleWebKit/533.16.2 (KHTML, like Gecko) Version/3.0.5 Mobile/8B118 Safari/6533.16.2"
+507f1f77bcf86cd799439064,diana_prince,345 Spruce St,Tempe,AZ,85281,0.4678,83.154.200.1,"Mozilla/5.0 (Linux; Android 4.3) AppleWebKit/531.0 (KHTML, like Gecko) Chrome/54.0.892.0 Safari/531.0"
+507f1f77bcf86cd799439065,edward_hands,456 Poplar Ave,Orlando,FL,32801,0.7347,101.62.127.133,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 10.0; Trident/3.0)
+507f1f77bcf86cd799439066,fiona_gallagher,567 Chestnut Blvd,Columbus,OH,43215,0.5295,1.5.230.246,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_0 rv:3.0; ga-IE) AppleWebKit/535.27.1 (KHTML, like Gecko) Version/5.0.5 Safari/535.27.1"
+507f1f77bcf86cd799439067,george_harrison,678 Magnolia Way,Charlotte,NC,28202,0.4721,10.115.7.142,"Mozilla/5.0 (iPod; U; CPU iPhone OS 3_0 like Mac OS X; nan-TW) AppleWebKit/534.29.3 (KHTML, like Gecko) Version/3.0.5 Mobile/8B111 Safari/6534.29.3"
+507f1f77bcf86cd799439068,helen_keller,789 Sycamore Rd,Denver,CO,80203,0.7492,213.53.48.113,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_3_1 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) FxiOS/11.8n5682.0 Mobile/16Y679 Safari/535.1"
+507f1f77bcf86cd799439069,ian_mckellen,890 Hickory St,Portland,OR,97205,0.7363,139.86.210.190,"Mozilla/5.0 (Linux; Android 2.3.2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/41.0.816.0 Safari/534.0"
+507f1f77bcf86cd799439070,julia_roberts,901 Redwood Dr,San Diego,CA,92101,0.7551,157.20.85.227,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; nso-ZA) AppleWebKit/531.12.6 (KHTML, like Gecko) Version/3.0.5 Mobile/8B112 Safari/6531.12.6"
+507f1f77bcf86cd799439071,kevin_bacon,102 Maple St,Springfield,IL,62704,0.3412,105.90.52.127,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/3453-04-02 19:20:09.024734 Firefox/3.8
+507f1f77bcf86cd799439072,lisa_simpson,213 Oak Ave,Centerville,OH,45459,0.149,174.114.72.152,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/4.0)
+507f1f77bcf86cd799439073,mike_tyson,324 Pine Rd,Lakeland,FL,33801,0.3102,155.144.216.184,Opera/8.51.(Windows NT 4.0; hr-HR) Presto/2.9.170 Version/11.00
+507f1f77bcf86cd799439074,nina_simone,435 Cedar Dr,Franklin,TN,37064,0.6117,101.60.73.55,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/15.0.892.0 Safari/536.1"
+507f1f77bcf86cd799439075,oliver_twist,546 Elm St,Greenville,SC,29601,0.6241,205.8.124.140,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_1) AppleWebKit/535.0 (KHTML, like Gecko) Chrome/32.0.896.0 Safari/535.0"
+507f1f77bcf86cd799439076,penny_lane,657 Birch Ln,Redmond,WA,98052,0.4183,214.50.229.115,"Mozilla/5.0 (iPad; CPU iPad OS 3_2_2 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) CriOS/24.0.828.0 Mobile/69C218 Safari/534.1"
+507f1f77bcf86cd799439077,quentin_tarantino,768 Willow Ct,Plano,TX,75023,0.2092,112.128.50.163,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_1) AppleWebKit/536.0 (KHTML, like Gecko) Chrome/60.0.853.0 Safari/536.0"
+507f1f77bcf86cd799439078,rachel_green,879 Aspen Pl,Albany,NY,12207,0.5691,116.63.239.198,Opera/9.38.(Windows NT 10.0; th-TH) Presto/2.9.190 Version/12.00
+507f1f77bcf86cd799439079,steve_jobs,980 Spruce St,Tempe,AZ,85281,0.5664,15.72.69.169,"Mozilla/5.0 (iPad; CPU iPad OS 7_1_2 like Mac OS X) AppleWebKit/531.2 (KHTML, like Gecko) CriOS/40.0.890.0 Mobile/54X962 Safari/531.2"
+507f1f77bcf86cd799439080,tina_fey,123 Poplar Ave,Orlando,FL,32801,0.4234,187.69.173.127,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/41.0.862.0 Safari/534.2"
+507f1f77bcf86cd799439081,ursula_k_le_guin,234 Chestnut Blvd,Columbus,OH,43215,0.2094,108.0.51.192,Mozilla/5.0 (compatible; MSIE 7.0; Windows CE; Trident/5.0)
+507f1f77bcf86cd799439082,vince_vaughn,345 Magnolia Way,Charlotte,NC,28202,0.2893,155.233.210.55,"Mozilla/5.0 (Windows 95) AppleWebKit/532.2 (KHTML, like Gecko) Chrome/62.0.897.0 Safari/532.2"
+507f1f77bcf86cd799439083,will_smith,456 Sycamore Rd,Denver,CO,80203,0.4027,21.144.100.57,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_5 rv:6.0; nan-TW) AppleWebKit/533.47.7 (KHTML, like Gecko) Version/4.0.4 Safari/533.47.7"
+507f1f77bcf86cd799439084,xena_warrior,567 Hickory St,Portland,OR,97205,0.6029,172.81.193.232,"Mozilla/5.0 (Windows NT 5.01) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/19.0.822.0 Safari/534.1"
+507f1f77bcf86cd799439085,yoda_master,678 Redwood Dr,San Diego,CA,92101,0.5763,180.136.176.211,Mozilla/5.0 (compatible; MSIE 5.0; Windows 98; Win 9x 4.90; Trident/3.0)
+507f1f77bcf86cd799439086,zoe_saldana,789 Maple St,Springfield,IL,62704,0.81,97.190.149.244,Opera/9.49.(X11; Linux x86_64; he-IL) Presto/2.9.172 Version/10.00
+507f1f77bcf86cd799439087,adam_sandler,890 Oak Ave,Centerville,OH,45459,0.4237,85.194.158.62,"Mozilla/5.0 (iPad; CPU iPad OS 2_2_1 like Mac OS X) AppleWebKit/535.0 (KHTML, like Gecko) CriOS/54.0.818.0 Mobile/48L899 Safari/535.0"
+507f1f77bcf86cd799439088,betty_white,901 Pine Rd,Lakeland,FL,33801,0.5073,193.114.117.8,"Mozilla/5.0 (Linux; Android 4.2) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/63.0.855.0 Safari/535.1"
+507f1f77bcf86cd799439089,charlie_chaplin,102 Cedar Dr,Franklin,TN,37064,0.5994,135.233.25.225,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.1)
+507f1f77bcf86cd799439090,dorothy_gale,213 Elm St,Greenville,SC,29601,0.2209,158.51.73.97,Mozilla/5.0 (Android 2.0.1; Mobile; rv:41.0) Gecko/41.0 Firefox/41.0
+507f1f77bcf86cd799439091,ernest_hemingway,324 Birch Ln,Redmond,WA,98052,0.4893,163.119.42.2,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_0 like Mac OS X; gd-GB) AppleWebKit/535.5.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B114 Safari/6535.5.6"
+507f1f77bcf86cd799439092,frida_kahlo,435 Willow Ct,Plano,TX,75023,0.7259,195.195.10.183,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 6.2; Trident/5.1)
+507f1f77bcf86cd799439093,gandhi_mahatma,546 Aspen Pl,Albany,NY,12207,0.5586,206.211.145.229,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_0; rv:1.9.4.20) Gecko/8968-09-07 18:42:05.587860 Firefox/8.0
+507f1f77bcf86cd799439094,harry_potter,657 Spruce St,Tempe,AZ,85281,0.4532,98.145.75.84,Mozilla/5.0 (Android 3.2.2; Mobile; rv:67.0) Gecko/67.0 Firefox/67.0
+507f1f77bcf86cd799439095,indiana_jones,768 Poplar Ave,Orlando,FL,32801,0.3669,87.151.248.148,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 6.1; Trident/4.1)
+507f1f77bcf86cd799439096,james_bond,879 Chestnut Blvd,Columbus,OH,43215,0.6233,124.161.232.178,Mozilla/5.0 (Android 2.3; Mobile; rv:21.0) Gecko/21.0 Firefox/21.0
+507f1f77bcf86cd799439097,kate_winslet,980 Magnolia Way,Charlotte,NC,28202,0.4835,107.214.42.68,Mozilla/5.0 (X11; Linux i686; rv:1.9.7.20) Gecko/3253-06-19 10:23:02.744766 Firefox/3.6.8
+507f1f77bcf86cd799439098,leonardo_dicaprio,123 Sycamore Rd,Denver,CO,80203,0.4135,211.46.152.178,Mozilla/5.0 (Windows 95; mhr-RU; rv:1.9.2.20) Gecko/8608-01-03 16:15:23.156433 Firefox/14.0
+507f1f77bcf86cd799439099,meryl_streep,234 Hickory St,Portland,OR,97205,0.3732,67.77.162.131,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_1 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) FxiOS/15.9t3164.0 Mobile/85U536 Safari/532.0"
+507f1f77bcf86cd799439100,napoleon_bonaparte,345 Redwood Dr,San Diego,CA,92101,0.2816,88.147.92.135,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.1; Trident/4.0)
+507f1f77bcf86cd799439101,oprah_winfrey,456 Maple St,Springfield,IL,62704,0.7843,183.81.173.21,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_9_1 rv:5.0; mai-IN) AppleWebKit/534.30.7 (KHTML, like Gecko) Version/4.1 Safari/534.30.7"
+507f1f77bcf86cd799439102,pablo_picasso,567 Oak Ave,Centerville,OH,45459,0.49,148.49.3.49,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; wal-ET) AppleWebKit/531.1.7 (KHTML, like Gecko) Version/3.0.5 Mobile/8B116 Safari/6531.1.7"
+507f1f77bcf86cd799439103,queen_elizabeth,678 Pine Rd,Lakeland,FL,33801,0.6737,218.57.93.115,"Mozilla/5.0 (iPhone; CPU iPhone OS 6_1_6 like Mac OS X) AppleWebKit/532.0 (KHTML, like Gecko) CriOS/17.0.853.0 Mobile/47H200 Safari/532.0"
+507f1f77bcf86cd799439104,robin_hood,789 Cedar Dr,Franklin,TN,37064,0.6299,197.141.237.50,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 4.0; Trident/5.1)
+507f1f77bcf86cd799439105,sherlock_holmes,890 Elm St,Greenville,SC,29601,0.132,39.120.211.27,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_0; rv:1.9.2.20) Gecko/3338-04-02 01:11:01.640869 Firefox/4.0
+507f1f77bcf86cd799439106,tarzan_jungle,901 Birch Ln,Redmond,WA,98052,0.2974,157.216.165.176,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_6) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/56.0.874.0 Safari/533.0"
+507f1f77bcf86cd799439107,ursula_andress,102 Willow Ct,Plano,TX,75023,0.3075,78.234.217.164,"Mozilla/5.0 (iPad; CPU iPad OS 14_2 like Mac OS X) AppleWebKit/531.1 (KHTML, like Gecko) FxiOS/16.7x5577.0 Mobile/49K096 Safari/531.1"
+507f1f77bcf86cd799439108,victor_frankenstein,213 Aspen Pl,Albany,NY,12207,0.6257,71.159.119.150,"Mozilla/5.0 (Windows; U; Windows NT 10.0) AppleWebKit/533.12.6 (KHTML, like Gecko) Version/5.0 Safari/533.12.6"
+507f1f77bcf86cd799439109,william_shakespeare,324 Spruce St,Tempe,AZ,85281,0.4585,186.28.81.242,Opera/8.90.(X11; Linux x86_64; cs-CZ) Presto/2.9.166 Version/11.00
+507f1f77bcf86cd799439110,xavier_school,435 Poplar Ave,Orlando,FL,32801,0.5529,16.174.47.64,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_10_4 rv:6.0; ca-IT) AppleWebKit/535.32.6 (KHTML, like Gecko) Version/5.1 Safari/535.32.6"
+507f1f77bcf86cd799439111,yellow_submarine,546 Chestnut Blvd,Columbus,OH,43215,0.5847,120.71.152.221,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_0 rv:4.0; xh-ZA) AppleWebKit/532.43.4 (KHTML, like Gecko) Version/4.0.5 Safari/532.43.4"
+507f1f77bcf86cd799439112,zorro_mask,657 Magnolia Way,Charlotte,NC,28202,0.3243,81.214.124.108,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_9_7) AppleWebKit/536.2 (KHTML, like Gecko) Chrome/35.0.875.0 Safari/536.2"
+507f1f77bcf86cd799439113,alice_cooper,768 Sycamore Rd,Denver,CO,80203,0.5905,112.97.249.154,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_5_8 rv:3.0; aa-ET) AppleWebKit/533.49.4 (KHTML, like Gecko) Version/4.1 Safari/533.49.4"
+507f1f77bcf86cd799439114,bruce_lee,879 Hickory St,Portland,OR,97205,0.4456,18.56.76.95,"Mozilla/5.0 (Windows; U; Windows NT 5.0) AppleWebKit/532.2.2 (KHTML, like Gecko) Version/4.1 Safari/532.2.2"
+507f1f77bcf86cd799439115,clint_eastwood,980 Redwood Dr,San Diego,CA,92101,0.4896,147.25.251.199,Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 4.0; Trident/3.1)
+507f1f77bcf86cd799439116,david_bowie,123 Maple St,Springfield,IL,62704,0.5976,1.243.74.129,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_4 rv:4.0; sa-IN) AppleWebKit/533.41.7 (KHTML, like Gecko) Version/5.1 Safari/533.41.7"
+507f1f77bcf86cd799439117,elvis_presley,234 Oak Ave,Centerville,OH,45459,0.63,158.15.192.19,"Mozilla/5.0 (Windows; U; Windows NT 6.2) AppleWebKit/531.19.3 (KHTML, like Gecko) Version/4.0 Safari/531.19.3"
+507f1f77bcf86cd799439118,freddie_mercury,345 Pine Rd,Lakeland,FL,33801,0.615,202.118.223.39,"Mozilla/5.0 (Linux; Android 3.0) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/60.0.812.0 Safari/534.0"
+507f1f77bcf86cd799439119,greta_garbo,456 Cedar Dr,Franklin,TN,37064,0.5035,9.119.52.16,Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)
+507f1f77bcf86cd799439120,humphrey_bogart,567 Elm St,Greenville,SC,29601,0.5712,209.173.91.7,Mozilla/5.0 (Android 2.2.1; Mobile; rv:8.0) Gecko/8.0 Firefox/8.0
+507f1f77bcf86cd799439121,ingrid_bergman,678 Birch Ln,Redmond,WA,98052,0.7909,73.11.219.247,Mozilla/5.0 (compatible; MSIE 9.0; Windows 95; Trident/5.0)
+507f1f77bcf86cd799439122,john_lennon,789 Willow Ct,Plano,TX,75023,0.4644,122.194.199.5,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 11.0; Trident/5.0)
+507f1f77bcf86cd799439123,kurt_cobain,890 Aspen Pl,Albany,NY,12207,0.4505,131.233.102.85,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_5_8 rv:2.0; an-ES) AppleWebKit/531.9.2 (KHTML, like Gecko) Version/5.0.2 Safari/531.9.2"
+507f1f77bcf86cd799439124,louis_armstrong,901 Spruce St,Tempe,AZ,85281,0.3288,148.224.119.173,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.5.20) Gecko/2966-11-26 19:16:41.962864 Firefox/3.6.20
+507f1f77bcf86cd799439125,madonna_ciccone,102 Poplar Ave,Orlando,FL,32801,0.5252,140.165.66.200,"Mozilla/5.0 (Windows; U; Windows NT 4.0) AppleWebKit/535.16.1 (KHTML, like Gecko) Version/4.0.1 Safari/535.16.1"
+507f1f77bcf86cd799439126,nina_hagen,213 Chestnut Blvd,Columbus,OH,43215,0.7102,156.134.124.104,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.0)
+507f1f77bcf86cd799439127,ozzy_osbourne,324 Magnolia Way,Charlotte,NC,28202,0.4771,171.238.0.63,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/3.0)
+507f1f77bcf86cd799439128,prince_rogers,435 Sycamore Rd,Denver,CO,80203,0.5278,48.35.155.171,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.2; Trident/3.1)
+507f1f77bcf86cd799439129,queen_latifah,546 Hickory St,Portland,OR,97205,0.4416,65.183.56.96,Mozilla/5.0 (Android 4.0; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0
+507f1f77bcf86cd799439130,ray_charles,657 Redwood Dr,San Diego,CA,92101,0.5144,14.39.135.231,"Mozilla/5.0 (Windows NT 5.01) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/21.0.832.0 Safari/533.2"
+507f1f77bcf86cd799439131,stevie_wonder,768 Maple St,Springfield,IL,62704,0.1683,113.121.119.161,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_5 rv:6.0; ka-GE) AppleWebKit/534.39.7 (KHTML, like Gecko) Version/5.0 Safari/534.39.7"
+507f1f77bcf86cd799439132,tina_turner,879 Oak Ave,Centerville,OH,45459,0.4466,151.233.149.121,Mozilla/5.0 (Android 1.5; Mobile; rv:25.0) Gecko/25.0 Firefox/25.0
+507f1f77bcf86cd799439133,ursula_buress,980 Pine Rd,Lakeland,FL,33801,0.567,143.216.215.55,Opera/9.60.(X11; Linux i686; ug-CN) Presto/2.9.172 Version/12.00
+507f1f77bcf86cd799439134,van_morrison,123 Cedar Dr,Franklin,TN,37064,0.8622,22.141.116.255,"Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_6 like Mac OS X) AppleWebKit/535.1 (KHTML, like Gecko) CriOS/14.0.862.0 Mobile/73Q165 Safari/535.1"
+507f1f77bcf86cd799439135,wayne_newton,234 Elm St,Greenville,SC,29601,0.3445,48.184.216.112,Mozilla/5.0 (compatible; MSIE 5.0; Windows NT 5.01; Trident/4.0)
+507f1f77bcf86cd799439136,xzibit_rapper,345 Birch Ln,Redmond,WA,98052,0.6749,194.50.111.238,Mozilla/5.0 (Windows NT 6.1; ff-SN; rv:1.9.0.20) Gecko/5889-10-14 00:53:49.790253 Firefox/3.6.19
+507f1f77bcf86cd799439137,yoko_ono,456 Willow Ct,Plano,TX,75023,0.7129,147.62.35.241,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/52.0.869.0 Safari/532.0"
+507f1f77bcf86cd799439138,zappa_frank,567 Aspen Pl,Albany,NY,12207,0.6617,47.19.229.233,Mozilla/5.0 (X11; Linux i686; rv:1.9.5.20) Gecko/7473-06-11 10:58:18.443115 Firefox/3.8
+507f1f77bcf86cd799439139,amy_winehouse,678 Spruce St,Tempe,AZ,85281,0.2227,100.63.132.98,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_12_5 rv:3.0; szl-PL) AppleWebKit/533.22.1 (KHTML, like Gecko) Version/5.0.2 Safari/533.22.1"
+507f1f77bcf86cd799439140,bob_marley,789 Poplar Ave,Orlando,FL,32801,0.8192,163.64.202.249,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_10_6) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/32.0.820.0 Safari/533.0"
+507f1f77bcf86cd799439141,chuck_berry,890 Chestnut Blvd,Columbus,OH,43215,0.4651,61.234.226.181,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 5.1; Trident/3.1)
+507f1f77bcf86cd799439142,diana_ross,901 Magnolia Way,Charlotte,NC,28202,0.2884,221.129.112.61,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3 like Mac OS X; fa-IR) AppleWebKit/535.15.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B119 Safari/6535.15.6"
+507f1f77bcf86cd799439143,elton_john,102 Sycamore Rd,Denver,CO,80203,0.2897,100.9.213.114,"Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2 like Mac OS X; it-CH) AppleWebKit/534.38.6 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6534.38.6"
+507f1f77bcf86cd799439144,frank_sinatra,213 Hickory St,Portland,OR,97205,0.4878,78.50.210.101,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_8_5) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/55.0.866.0 Safari/534.1"
+507f1f77bcf86cd799439145,gloria_gaynor,324 Redwood Dr,San Diego,CA,92101,0.5952,123.237.137.138,Opera/8.54.(Windows NT 11.0; hsb-DE) Presto/2.9.186 Version/10.00
+507f1f77bcf86cd799439146,harry_connick,435 Maple St,Springfield,IL,62704,0.3795,109.255.127.249,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_1 rv:2.0; byn-ER) AppleWebKit/533.47.1 (KHTML, like Gecko) Version/4.1 Safari/533.47.1"
+507f1f77bcf86cd799439147,irene_cara,546 Oak Ave,Centerville,OH,45459,0.2918,81.155.107.64,Opera/8.54.(Windows CE; nb-NO) Presto/2.9.186 Version/11.00
+507f1f77bcf86cd799439148,janet_jackson,657 Pine Rd,Lakeland,FL,33801,0.572,161.156.75.98,Mozilla/5.0 (Windows 98; sd-PK; rv:1.9.1.20) Gecko/3444-12-19 23:02:16.931862 Firefox/3.8
+507f1f77bcf86cd799439149,karen_carpenter,768 Cedar Dr,Franklin,TN,37064,0.6152,197.248.2.212,Opera/9.28.(X11; Linux x86_64; tk-TM) Presto/2.9.173 Version/12.00
+507f1f77bcf86cd799439150,lionel_richie,879 Elm St,Greenville,SC,29601,0.3691,171.83.87.252,"Mozilla/5.0 (Linux; Android 1.5) AppleWebKit/532.1 (KHTML, like Gecko) Chrome/32.0.889.0 Safari/532.1"
+507f1f77bcf86cd799439151,marvin_gaye,980 Birch Ln,Redmond,WA,98052,0.4711,151.135.132.57,"Mozilla/5.0 (Windows 98) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/31.0.843.0 Safari/534.1"
+507f1f77bcf86cd799439152,nat_king_cole,123 Willow Ct,Plano,TX,75023,0.5917,106.26.170.97,"Mozilla/5.0 (Windows; U; Windows 98; Win 9x 4.90) AppleWebKit/534.38.3 (KHTML, like Gecko) Version/4.0 Safari/534.38.3"
+507f1f77bcf86cd799439153,otto_preminger,234 Aspen Pl,Albany,NY,12207,0.3704,209.216.39.77,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.0; Trident/4.1)
+507f1f77bcf86cd799439154,paul_mccartney,345 Spruce St,Tempe,AZ,85281,0.3438,203.216.121.111,"Mozilla/5.0 (Linux; Android 2.3) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/19.0.800.0 Safari/533.1"
+507f1f77bcf86cd799439155,quincy_jones,456 Poplar Ave,Orlando,FL,32801,0.7181,15.129.210.230,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; rv:1.9.2.20) Gecko/6779-02-06 05:44:15.179626 Firefox/3.8
+507f1f77bcf86cd799439156,ray_davies,567 Chestnut Blvd,Columbus,OH,43215,0.6366,2.241.6.178,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/5.1)
+507f1f77bcf86cd799439157,stevie_nicks,678 Magnolia Way,Charlotte,NC,28202,0.6405,182.82.65.83,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/7438-03-24 02:10:47.192780 Firefox/14.0
+507f1f77bcf86cd799439158,tom_jones,789 Sycamore Rd,Denver,CO,80203,0.6245,135.224.183.0,Mozilla/5.0 (Android 2.3.1; Mobile; rv:58.0) Gecko/58.0 Firefox/58.0
+507f1f77bcf86cd799439159,ursula_herrmann,890 Hickory St,Portland,OR,97205,0.6826,207.45.86.13,"Mozilla/5.0 (Windows NT 6.0) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/54.0.873.0 Safari/536.1"
+507f1f77bcf86cd799439160,van_halen,901 Redwood Dr,San Diego,CA,92101,0.5186,10.3.180.54,Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/4.0)
+507f1f77bcf86cd799439161,waylon_jennings,102 Maple St,Springfield,IL,62704,0.5987,206.181.39.228,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1 rv:6.0; xh-ZA) AppleWebKit/535.11.7 (KHTML, like Gecko) Version/5.0 Safari/535.11.7"
+507f1f77bcf86cd799439162,xavier_cugat,213 Oak Ave,Centerville,OH,45459,0.4841,174.215.73.20,Opera/9.16.(Windows NT 6.1; hak-TW) Presto/2.9.186 Version/12.00
+507f1f77bcf86cd799439163,yanni_chryssomallis,324 Pine Rd,Lakeland,FL,33801,0.9069,154.71.254.244,Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 4.0; Trident/4.1)
+507f1f77bcf86cd799439164,zubin_mehta,435 Cedar Dr,Franklin,TN,37064,0.5097,140.74.238.206,Mozilla/5.0 (Android 4.1.2; Mobile; rv:50.0) Gecko/50.0 Firefox/50.0
+507f1f77bcf86cd799439165,adele_adkins,546 Elm St,Greenville,SC,29601,0.6883,42.199.86.120,Opera/9.26.(X11; Linux i686; ru-RU) Presto/2.9.175 Version/10.00
+507f1f77bcf86cd799439166,billy_joel,657 Birch Ln,Redmond,WA,98052,0.6311,107.29.159.225,Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_9; rv:1.9.2.20) Gecko/8254-05-13 00:49:27.102783 Firefox/11.0
+507f1f77bcf86cd799439167,chris_cornell,768 Willow Ct,Plano,TX,75023,0.6749,211.166.227.113,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_11_6 rv:2.0; ber-DZ) AppleWebKit/532.42.7 (KHTML, like Gecko) Version/4.1 Safari/532.42.7"
+507f1f77bcf86cd799439168,david_gilmour,879 Aspen Pl,Albany,NY,12207,0.3742,67.74.117.65,"Mozilla/5.0 (Linux; Android 3.2.4) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/24.0.893.0 Safari/534.0"
+507f1f77bcf86cd799439169,eddie_vedder,980 Spruce St,Tempe,AZ,85281,0.5753,8.52.136.222,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_2) AppleWebKit/536.1 (KHTML, like Gecko) Chrome/56.0.894.0 Safari/536.1"
+507f1f77bcf86cd799439170,fleetwood_mac,123 Poplar Ave,Orlando,FL,32801,0.6142,5.233.109.96,"Mozilla/5.0 (Windows NT 5.0) AppleWebKit/534.1 (KHTML, like Gecko) Chrome/59.0.802.0 Safari/534.1"
+507f1f77bcf86cd799439171,george_michael,234 Chestnut Blvd,Columbus,OH,43215,0.3218,179.16.209.155,Opera/8.92.(X11; Linux x86_64; lzh-TW) Presto/2.9.164 Version/12.00
+507f1f77bcf86cd799439172,heart_ann_wilson,345 Magnolia Way,Charlotte,NC,28202,0.497,172.227.182.4,"Mozilla/5.0 (Windows; U; Windows 95) AppleWebKit/532.26.5 (KHTML, like Gecko) Version/5.0.1 Safari/532.26.5"
+507f1f77bcf86cd799439173,ian_anderson,456 Sycamore Rd,Denver,CO,80203,0.5622,150.92.237.167,Mozilla/5.0 (Windows 98; Win 9x 4.90; kn-IN; rv:1.9.0.20) Gecko/5287-05-10 14:43:04.910248 Firefox/13.0
+507f1f77bcf86cd799439174,james_taylor,567 Hickory St,Portland,OR,97205,0.4751,207.98.14.215,Opera/8.88.(X11; Linux x86_64; mt-MT) Presto/2.9.184 Version/11.00
+507f1f77bcf86cd799439175,keith_richards,678 Redwood Dr,San Diego,CA,92101,0.5012,78.208.44.133,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.1; Trident/5.1)
+507f1f77bcf86cd799439176,leonard_cohen,789 Maple St,Springfield,IL,62704,0.5426,135.236.199.216,"Mozilla/5.0 (Windows NT 6.2) AppleWebKit/533.1 (KHTML, like Gecko) Chrome/23.0.814.0 Safari/533.1"
+507f1f77bcf86cd799439177,mick_jagger,890 Oak Ave,Centerville,OH,45459,0.3796,151.13.98.227,Mozilla/5.0 (Windows NT 4.0; ku-TR; rv:1.9.0.20) Gecko/8142-01-12 10:22:52.472626 Firefox/3.8
+507f1f77bcf86cd799439178,neil_young,901 Pine Rd,Lakeland,FL,33801,0.3828,8.145.72.129,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_6_2 rv:5.0; unm-US) AppleWebKit/534.36.1 (KHTML, like Gecko) Version/4.0 Safari/534.36.1"
+507f1f77bcf86cd799439179,ozzy_osbourne,102 Cedar Dr,Franklin,TN,37064,0.3759,39.62.165.77,"Mozilla/5.0 (iPad; CPU iPad OS 9_3_5 like Mac OS X) AppleWebKit/534.1 (KHTML, like Gecko) FxiOS/9.5q3199.0 Mobile/18Z719 Safari/534.1"
+507f1f77bcf86cd799439180,peter_gabriel,213 Elm St,Greenville,SC,29601,0.6989,176.153.61.112,Opera/9.84.(X11; Linux i686; tcy-IN) Presto/2.9.160 Version/11.00
+507f1f77bcf86cd799439181,queen_freddie,324 Birch Ln,Redmond,WA,98052,0.4995,62.156.210.179,Mozilla/5.0 (compatible; MSIE 9.0; Windows 98; Trident/4.0)
+507f1f77bcf86cd799439182,roger_waters,435 Willow Ct,Plano,TX,75023,0.5172,78.80.86.203,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.6.20) Gecko/4995-06-01 16:00:41.057846 Firefox/12.0
+507f1f77bcf86cd799439183,steve_winwood,546 Aspen Pl,Albany,NY,12207,0.317,163.244.163.115,"Mozilla/5.0 (Windows; U; Windows 98) AppleWebKit/531.3.2 (KHTML, like Gecko) Version/5.1 Safari/531.3.2"
+507f1f77bcf86cd799439184,tom_petty,657 Spruce St,Tempe,AZ,85281,0.4051,200.231.188.116,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 5.0; Trident/5.1)
+507f1f77bcf86cd799439185,ursula_herrmann,768 Poplar Ave,Orlando,FL,32801,0.5362,47.84.144.52,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 5.2; Trident/4.0)
+507f1f77bcf86cd799439186,van_morrison,879 Chestnut Blvd,Columbus,OH,43215,0.7088,150.174.201.131,"Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_12_2) AppleWebKit/534.0 (KHTML, like Gecko) Chrome/48.0.860.0 Safari/534.0"
+507f1f77bcf86cd799439187,warren_zevon,980 Magnolia Way,Charlotte,NC,28202,0.5673,66.31.253.244,"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/533.0 (KHTML, like Gecko) Chrome/49.0.863.0 Safari/533.0"
+507f1f77bcf86cd799439188,xavier_rudd,123 Sycamore Rd,Denver,CO,80203,0.6955,82.69.198.220,"Mozilla/5.0 (Macintosh; PPC Mac OS X 10_7_5) AppleWebKit/534.2 (KHTML, like Gecko) Chrome/13.0.843.0 Safari/534.2"
+507f1f77bcf86cd799439189,yellowman,234 Hickory St,Portland,OR,97205,0.3341,188.219.159.224,Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_8; rv:1.9.5.20) Gecko/3456-06-17 03:31:50.803535 Firefox/5.0
+507f1f77bcf86cd799439190,zappa_frank,345 Redwood Dr,San Diego,CA,92101,0.6504,30.154.62.44,"Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/531.2 (KHTML, like Gecko) Chrome/40.0.828.0 Safari/531.2"
+507f1f77bcf86cd799439191,amy_lee,456 Maple St,Springfield,IL,62704,0.4407,164.223.66.44,Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_11_0; rv:1.9.2.20) Gecko/3982-07-01 10:08:07.678040 Firefox/3.6.14
+507f1f77bcf86cd799439192,bon_jovi,567 Oak Ave,Centerville,OH,45459,0.6856,71.138.97.61,Opera/9.23.(Windows NT 6.1; gez-ER) Presto/2.9.177 Version/11.00
+507f1f77bcf86cd799439193,chris_martin,678 Pine Rd,Lakeland,FL,33801,0.5038,11.242.9.246,Mozilla/5.0 (compatible; MSIE 9.0; Windows CE; Trident/3.1)
+507f1f77bcf86cd799439194,dave_grohl,789 Cedar Dr,Franklin,TN,37064,0.3827,16.177.70.252,Mozilla/5.0 (compatible; MSIE 6.0; Windows NT 6.1; Trident/4.1)
+507f1f77bcf86cd799439195,ed_sheeran,890 Elm St,Greenville,SC,29601,0.5946,219.85.195.249,Opera/8.88.(Windows NT 5.0; lzh-TW) Presto/2.9.187 Version/11.00
+507f1f77bcf86cd799439196,florence_welch,901 Birch Ln,Redmond,WA,98052,0.3059,64.122.90.79,"Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_10_3 rv:3.0; dz-BT) AppleWebKit/535.9.2 (KHTML, like Gecko) Version/4.0.5 Safari/535.9.2"
+507f1f77bcf86cd799439197,gary_lightbody,102 Willow Ct,Plano,TX,75023,0.2819,112.175.27.98,Mozilla/5.0 (X11; Linux x86_64; rv:1.9.7.20) Gecko/3638-11-21 18:57:40.564735 Firefox/3.8
+507f1f77bcf86cd799439198,hayley_williams,213 Aspen Pl,Albany,NY,12207,0.5556,118.192.37.201,Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.2; Trident/5.1)
+507f1f77bcf86cd799439199,imogen_heap,324 Spruce St,Tempe,AZ,85281,0.5029,135.48.156.244,Mozilla/5.0 (Windows NT 6.1; ber-DZ; rv:1.9.2.20) Gecko/6852-03-25 17:08:09.341980 Firefox/3.6.8
+507f1f77bcf86cd799439200,jack_white ,435 Poplar Ave,Orlando,FL,32801,0.4953,173.166.168.113,Opera/8.50.(X11; Linux i686; lo-LA) Presto/2.9.169 Version/12.00

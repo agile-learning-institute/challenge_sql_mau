@@ -1,6 +1,37 @@
-# SQL MAU/DAU Challenge
+ # SQL MAU/DAU Challenge
 
 SQL Challenge for Monthly/Daily Active User Analysis and Visualization
+
+## Prerequisites
+- Python 3.12 or higher
+- pipenv (Python package manager)
+
+## Setup
+1. Install dependencies:
+```bash
+pipenv install
+```
+
+## Generating Test Data
+The project includes a script to generate test login data. To generate test data:
+
+```bash
+pipenv run generate-logins <output_file> <start_date> <end_date>
+```
+
+Example:
+```bash
+pipenv run generate-logins test_logins.csv 2025-01-01 2025-04-15
+```
+
+This will generate a CSV file containing login records with:
+- Timestamps between the specified dates
+- User IDs from users.csv
+- Login propensity-based login frequency
+- Occasional IP and user agent changes
+- Simulated failed login attempts
+
+NOTE: This can generate large volumes of test data. Try not to push files larger that 10Gb to GitHub. 
 
 ## Overview
 Modern identity management systems provide event streams of login attempts, which are crucial for measuring user engagement through metrics like Daily Active Users (DAU) and Monthly Active Users (MAU). This challenge focuses on analyzing login data to create meaningful visualizations of user engagement patterns.
@@ -18,6 +49,7 @@ The project includes two main data files:
   - zip: User's zip code
 
 ### logins.csv
+You can generate logins using the ``pipenv run generate-logins`` command 
 - Contains login event data including:
   - timestamp: Login attempt timestamp (UTC)
   - user_id: Reference to users.csv
